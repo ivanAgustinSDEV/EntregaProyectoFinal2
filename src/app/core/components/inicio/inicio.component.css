@@ -1,0 +1,70 @@
+.posicion{
+  justify-content: center;
+  display: flex;
+}
+
+.body{
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+  background-color: rgb(241, 236, 230);
+}
+
+.tabla {
+  width: 100%;
+  max-width: 330px;
+  text-align: center;
+  left: 50%,
+}
+
+.centrar{
+  width: 60%;
+  margin-top: 10px;
+  align-items: center;
+}
+
+table {
+  width: 100%;
+  margin-top: 10px;
+  align-items: center;
+}
+
+th{
+  width: 55%;
+  height: 50%;
+  left: 50%,
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.center{
+  justify-content: center;
+  display: flex;
+}
+
+.acciones2{
+  display: flex;
+  flex-direction: row;
+  align-content: flex-end;
+  align-items: center;
+  justify-content: space-around;
+  left: 90px;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  align-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  left: 90px;
+}
